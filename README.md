@@ -2,7 +2,7 @@
 
 ## Automated Lighting Solution for Matterport3D Houses in Isaac Sim
 
-For those working with the full Matterport3D dataset (90 houses), I've developed an automated approach to add lighting that might be helpful after running convert_mesh.py:
+For those working with the full Matterport3D dataset (90 houses), I've developed an automated approach to add lighting that might be helpful after running `IsaacLab/scripts/tools/convert_mesh.py`:
 
 ### The Challenge
 When importing Matterport3D houses into Isaac Sim, the converted meshes lack proper lighting, resulting in dark, flat-looking environments. Manually adding lights to 90+ houses isn't practical.
